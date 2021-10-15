@@ -1,0 +1,8 @@
+spacy
+nltk
+matplotlib
+seaborn
+pandas
+sklearn
+bs4
+wikipedia
