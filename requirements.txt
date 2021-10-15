@@ -1,8 +1,8 @@
 spacy
 nltk
-matplotlib
-seaborn
-pandas
 sklearn
-bs4
+seaborn
+matplotlib
 wikipedia
+pandas
+bs4
